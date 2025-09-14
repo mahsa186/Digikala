@@ -1,0 +1,32 @@
+.story{
+  width: 100%;
+  height: 140px;
+}
+.story .swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.story  .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.story  .swiper-slide img {
+  display: block;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid purple;
+  padding: 3px;
+}
+.story  .swiper-slide span{
+  font-family: enter;
+  font-size: 15px;
+}
+/*Mhs186*/

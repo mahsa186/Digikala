@@ -1,0 +1,72 @@
+.main>.montakhab{
+    width: 100%;
+    height: 855px;
+    border: 1px solid #ECEEEE;
+    border-radius: 20px;
+    position: relative;
+    top: 170px;
+    text-align: center;
+    padding: 10px 12px;
+}
+.main>.montakhab>h3{
+    width: 300px;
+    height: 45px;
+    font-family: enter;
+    font-size: 25px;
+    position: relative;
+    right: 500px;
+}
+.main>.montakhab>div{
+    display: inline-block;
+    width: 208px;
+    height: 260px;
+    border-bottom: 1px solid #ECEEEE;
+    border-right: 1px solid #ECEEEE;
+    position: relative;
+    top: 20px;
+}
+.main>.montakhab>div>img{
+    width: 150px;
+    height: 150px;
+}
+.main>.montakhab>div>span{
+    width: 40px;
+    height: 20px;
+    color: white;
+    background-color: #D32F2F;
+    border-radius: 40px;
+    font-size: 15px;
+    display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 150px;
+}
+.main>.montakhab>div>.num{
+    display: inline-block;
+    width: 80px;
+    height: 20px;
+    background-color: white;
+    color: black;
+    font-family: enter;
+    border-radius:0;
+    position: relative;
+    right: 50px;
+    top: 30px;
+    margin-left: 5px;
+}
+.main>.montakhab>div>svg{
+    position: relative;
+    top: 32px;
+    right: 40px;
+}
+.main>.montakhab>div>h6{
+    text-decoration: line-through;
+    color: #C0C2C5;
+    position: relative;
+    top: 50px;
+    right: 40px;
+    font-size: 15px;
+    display: inline-block;
+    width: 100px;
+}
+/*Mhs186*/
